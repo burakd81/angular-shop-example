@@ -1,5 +1,6 @@
 ## Database using
 To use the database you have to run the "shop.json" server from the command line!
+"json-server --watch shop.json"
 
 # Shop
 
